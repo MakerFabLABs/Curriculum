@@ -1,0 +1,24 @@
+
+
+.references__contact a:hover {
+    color: #f80303;
+}
+
+a:visited {
+    color: #be0505;
+}
+
+a:link {
+    color: #747474;
+}
+.references__contact li {
+    margin-bottom: 6px;
+}
+
+.nav__logo {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #cca705;
+    /* text-transform: uppercase; */
+    letter-spacing: 2px;
+}
